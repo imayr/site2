@@ -2,12 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/documentation/</loc>
+    <loc>site2/documentation/</loc>
   </url><url>
-    <loc>http://example.org/categories/</loc>
+    <loc>site2/categories/</loc>
   </url><url>
-    <loc>http://example.org/</loc>
+    <loc>site2/</loc>
   </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>site2/tags/</loc>
   </url>
 </urlset>
