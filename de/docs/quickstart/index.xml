@@ -1,12 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>IMayr DE – Schnellstart</title>
-    <link>/site2/de/docs/quickstart/</link>
+    <link>/de/docs/quickstart/</link>
     <description>Recent content in Schnellstart on IMayr DE</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	  <atom:link href="/site2/de/docs/quickstart/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="/de/docs/quickstart/index.xml" rel="self" type="application/rss+xml" />
     
     
       
