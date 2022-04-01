@@ -2,12 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://doc1.docusnap.com/site2/documentation/</loc>
+    <loc>/site2/documentation/</loc>
   </url><url>
-    <loc>https://doc1.docusnap.com/site2/categories/</loc>
+    <loc>/site2/categories/</loc>
   </url><url>
-    <loc>https://doc1.docusnap.com/site2/</loc>
+    <loc>/site2/</loc>
   </url><url>
-    <loc>https://doc1.docusnap.com/site2/tags/</loc>
+    <loc>/site2/tags/</loc>
   </url>
 </urlset>
