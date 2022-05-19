@@ -2,9 +2,41 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/site2/en/release-notes/2022/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/site2/de/release-notes/2022/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/site2/en/release-notes/2022/"
+                />
+  </url><url>
     <loc>/site2/en/user-guide/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/site2/de/user-guide/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/site2/en/user-guide/"
+                />
   </url><url>
     <loc>/site2/en/release-notes/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/site2/de/release-notes/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/site2/en/release-notes/"
+                />
   </url><url>
     <loc>/site2/en/categories/</loc>
     <xhtml:link
@@ -30,18 +62,6 @@
                 href="/site2/en/"
                 />
   </url><url>
-    <loc>/site2/en/release-notes/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="/site2/de/release-notes/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/site2/en/release-notes/"
-                />
-  </url><url>
     <loc>/site2/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
@@ -52,18 +72,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="/site2/en/tags/"
-                />
-  </url><url>
-    <loc>/site2/en/user-guide/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="/site2/de/user-guide/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/site2/en/user-guide/"
                 />
   </url>
 </urlset>

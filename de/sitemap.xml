@@ -3,6 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>/site2/de/release-notes/2022/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/site2/en/release-notes/2022/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/site2/de/release-notes/2022/"
+                />
   </url><url>
     <loc>/site2/de/user-guide/</loc>
     <xhtml:link
