@@ -1,12 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Docusnap Documentation – Release-notes</title>
-    <link>/en/release-notes/</link>
+    <link>/site2/en/release-notes/</link>
     <description>Recent content in Release-notes on Docusnap Documentation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	  <atom:link href="/en/release-notes/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="/site2/en/release-notes/index.xml" rel="self" type="application/rss+xml" />
     
     
       
