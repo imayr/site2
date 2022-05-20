@@ -4,7 +4,7 @@
     <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="generator" content="Hugo 0.96.0" />
-<link rel="alternate" type="application/json" href="/site2/de/index.json">
+<link rel="alternate" type="application/rss&#43;xml" href="/site2/de/api/index.xml">
 <meta name="robots" content="index, follow">
 
 
@@ -19,62 +19,17 @@
 <link rel="icon" type="image/png" href="/site2/favicons/android-144x144.png" sizes="144x144">
 <link rel="icon" type="image/png" href="/site2/favicons/android-192x192.png" sizes="192x192">
 
-<title>Dokumentation zu Docusnap</title>
-<meta name="description" content="
-
-
-
-
-
-
-	
-		
-			
-				Docusnap Dokumentation
-
-			
-		
-	
-
-
-
-
-
-
- 
-
-
-	
-		
-			
-				
-
-
-
-  
-
-IMayr 365 Ideas
-
-
-
-
-
-
-
-
-
-
-  
-
-IMayr 365 Knowledge Base …">
-<meta property="og:title" content="Docusnap Docs" />
+<title>API Referenz zu Docusnap 365 | Dokumentation zu Docusnap</title>
+<meta name="description" content="RESTful API Docusnap.
+">
+<meta property="og:title" content="API Referenz zu Docusnap 365" />
 <meta property="og:description" content="Docusnap Docs" />
 <meta property="og:type" content="website" />
-<meta property="og:url" content="/site2/de/" /><meta property="og:site_name" content="Dokumentation zu Docusnap" />
+<meta property="og:url" content="/site2/de/api/" /><meta property="og:site_name" content="Dokumentation zu Docusnap" />
 
-<meta itemprop="name" content="Docusnap Docs">
+<meta itemprop="name" content="API Referenz zu Docusnap 365">
 <meta itemprop="description" content="Docusnap Docs"><meta name="twitter:card" content="summary"/>
-<meta name="twitter:title" content="Docusnap Docs"/>
+<meta name="twitter:title" content="API Referenz zu Docusnap 365"/>
 <meta name="twitter:description" content="Docusnap Docs"/>
 
 
@@ -93,7 +48,7 @@ IMayr 365 Knowledge Base …">
   crossorigin="anonymous"></script>
 
   </head>
-  <body class="td-home">
+  <body class="td-section">
     <header>
       
 <nav class="js-navbar-scroll navbar navbar-expand navbar-dark flex-column flex-md-row td-navbar">
@@ -137,7 +92,7 @@ IMayr 365 Knowledge Base …">
 				
 				
 				
-				<a class="nav-link" href="/site2/de/api/" ><span>API Referenz</span></a>
+				<a class="nav-link active" href="/site2/de/api/" ><span class="active">API Referenz</span></a>
 			</li>
 			
 			
@@ -178,84 +133,183 @@ IMayr 365 Knowledge Base …">
 </nav>
 
     </header>
-    <div class="container-fluid td-default td-outer">
-      <main role="main" class="td-main">
+    <div class="container-fluid td-outer">
+      <div class="td-main">
+        <div class="row flex-xl-nowrap">
+          <aside class="col-12 col-md-3 col-xl-2 td-sidebar d-print-none">
+            
+<div id="td-sidebar-menu" class="td-sidebar__inner">
+  <div id="content-mobile">
+  <form class="td-sidebar__search d-flex align-items-center">
+    
+
+<div id="site-search">
+  <div class="search-flex">
+    <form id="search-form" name="searchForm" role="form" onsubmit="return false">
+      <div class="search-wrapper">
+        <div class="search-container">
+          <i class="fa fa-search"></i>
+          <input autocomplete="off" placeholder="" id="search" class="search-input" aria-label="Search site" type="text" name="q">
+        </div>
+        <div class="search-error hide-element"><span class="search-error-message"></span></div>
+      </div>
+    </form>
+    <button id="clear-search-results-sidebar" class="button clear-search-results hide-element">Clear Search Results</button>
+  </div>
+</div>
+
+
+    <button class="btn btn-link td-sidebar__toggle d-md-none p-0 ml-3 fas fa-bars" type="button" data-toggle="collapse" data-target="#td-section-nav" aria-controls="td-docs-nav" aria-expanded="false" aria-label="Toggle section navigation">
+    </button>
+  </form>
+  </div>
+  <div id="content-desktop"></div>
+  <nav class="collapse td-sidebar-nav" id="td-section-nav">
+    <div class="nav-item dropdown d-block d-lg-none">
+      
+
+<a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+	Deutsch
+</a>
+<div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+	
+	<a class="dropdown-item" href="/site2/en/">English</a>
+	
+</div>
+    </div>
+    <ul class="td-sidebar-nav__section pr-md-3 ul-0">
+      <li class="td-sidebar-nav__section-title td-sidebar-nav__section with-child active-path" id="m-site2deapi-li">
+  <a href="/site2/de/api/" title="API Referenz zu Docusnap 365" class="align-left pl-0 active td-sidebar-link td-sidebar-link__section tree-root" id="m-site2deapi"><span class="td-sidebar-nav-active-item">API Referenz</span></a>
+  <ul class="ul-1">
+    <li class="td-sidebar-nav__section-title td-sidebar-nav__section without-child" id="m-site2deapiauthentication-li">
+  <a href="/site2/de/api/authentication/" class="align-left pl-0 td-sidebar-link td-sidebar-link__page" id="m-site2deapiauthentication"><span class="">Authentifizierung</span></a>
+</li><li class="td-sidebar-nav__section-title td-sidebar-nav__section with-child" id="m-site2deapisegment-api-li">
+  <a href="/site2/de/api/segment-api/" class="align-left pl-0 td-sidebar-link td-sidebar-link__section" id="m-site2deapisegment-api"><span class="">Segment API</span></a>
+  <ul class="ul-2 foldable">
+    <li class="td-sidebar-nav__section-title td-sidebar-nav__section without-child collapse" id="m-site2deapisegment-apihardware_get-hardware-li">
+  <a href="/site2/de/api/segment-api/hardware/_get-hardware/" class="align-left pl-0 td-sidebar-link td-sidebar-link__page" id="m-site2deapisegment-apihardware_get-hardware"><span class="">Get-Hardware</span></a>
+</li><li class="td-sidebar-nav__section-title td-sidebar-nav__section without-child collapse" id="m-site2deapisegment-apihardware_get-systems-li">
+  <a href="/site2/de/api/segment-api/hardware/_get-systems/" class="align-left pl-0 td-sidebar-link td-sidebar-link__page" id="m-site2deapisegment-apihardware_get-systems"><span class="">Get-Systems</span></a>
+</li>
+  </ul>
+</li>
+  </ul>
+</li>
+    </ul>
+  </nav>
+</div>
+
+          </aside>
+          <aside class="d-none d-xl-block col-xl-2 td-sidebar-toc d-print-none">
+            
+<div class="td-page-meta ml-2 pb-1 pt-2 mb-0">
+
+</div>
+
+            
+
+
+
+
+            
+
+	
+		
+
+
+
+  
+  
+
+	
+		
+
+
+
+  
+  
+
+	
+
+          </aside>
+          <main class="col-12 col-md-9 col-xl-8 pl-md-5" role="main">
+          <section class="search-results hide-element">
+  <div id="search-header">
+    <div class="search-query search-query-left">search term: <span id="query"></span></div>
+    <div class="search-query search-query-right"><span id="results-count"></span><span id="results-count-text"></span></div>
+  </div>
+  <button id="clear-search-results-mobile" class="button clear-search-results">Clear Search Results</button>
+  <ul></ul>
+</section>
+            
+  
+
+            <nav aria-label="breadcrumb" class="td-breadcrumbs td-breadcrumbs__single">
+  <ol class="breadcrumb">
+  <li class="breadcrumb-item active" aria-current="page">
+    <a href="/site2/de/api/">API Referenz</a>
+  </li>
+  </ol>
+</nav>
+            
+<div class="td-content">
+	<h1>API Referenz zu Docusnap 365</h1>
+  
+	<header class="article-meta">
+		
+
+  
+    
+
+
+  
+    
+
+
+  
+
+		
+	</header>
+	<p>RESTful API Docusnap.</p>
+
+        <div class="section-index">
+    
+    
+    
+    
+    
+    
+    
+    
+    <hr class="panel-line">
         
-
-
-
-
-
-
-<a id="td-block-0" class="td-offset-anchor"></a>
-<section class="row td-box td-box--blue position-relative td-box--gradient td-box--height-auto">
-	<div class="container text-center td-arrow-down">
-		<div class="h4 mb-0">
-			
-				<p>Docusnap Dokumentation</p>
-
-			
-		</div>
-	</div>
-</section>
-
-
-
-
-
- 
-<a id="td-block-1" class="td-offset-anchor"></a>
-<section class="row td-box td-box--dark td-box--gradient td-box--height-auto">
-	<div class="col">
-		<div class="row ">
-			
-				
-
-<div class="col-lg-4 mb-5 mb-lg-0 text-center">
-<div class="mb-4 h1">
-  <i class="fas fa-lightbulb"></i>
-</div>
-<h4 class="h3">IMayr 365 Ideas</h4>
-<div class="mb-0">
-
+            
+            <div class="entry">
+                <h5>
+                    <a href="/site2/de/api/authentication/">Authentifizierung</a>
+                </h5>
+                <p></p>
+            </div>
+        
+            
+            <div class="entry">
+                <h5>
+                    <a href="/site2/de/api/segment-api/">Segment API</a>
+                </h5>
+                <p></p>
+            </div>
+        
+    
 </div>
 
+	
+	
+	
 </div>
 
-
-
-<div class="col-lg-4 mb-5 mb-lg-0 text-center">
-<div class="mb-4 h1">
-  <i class="fab fa-github"></i>
-</div>
-<h4 class="h3">IMayr 365 Knowledge Base</h4>
-<div class="mb-0">
-
-</div>
-<p><a href="doc1.docusnap.com/site2/en/docs/">Weiterlesen …</a></p>
-</div>
-
-
-
-<div class="col-lg-4 mb-5 mb-lg-0 text-center">
-<div class="mb-4 h1">
-  <i class="fab fa-twitter"></i>
-</div>
-<h4 class="h3">Follow uns on Twitter!</h4>
-<div class="mb-0">
-
-</div>
-
-</div>
-
-			
-		</div>
-	</div>
-</section>
-
-
-
-      </main>
+          </main>
+        </div>
+      </div>
       
 <footer class="bg-dark py-5 row d-print-none">
   <div class="container-fluid mx-sm-5">
