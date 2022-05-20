@@ -1,12 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Docusnap Documentation – Categories</title>
-    <link>/site2/en/categories/</link>
+    <link>/en/categories/</link>
     <description>Recent content in Categories on Docusnap Documentation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	  <atom:link href="/site2/en/categories/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="/en/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
       
