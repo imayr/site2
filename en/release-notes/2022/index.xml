@@ -1,12 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Docusnap Documentation – 2022</title>
-    <link>/en/release-notes/2022/</link>
+    <link>/site2/en/release-notes/2022/</link>
     <description>Recent content in 2022 on Docusnap Documentation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	  <atom:link href="/en/release-notes/2022/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="/site2/en/release-notes/2022/index.xml" rel="self" type="application/rss+xml" />
     
     
       

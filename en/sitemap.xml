@@ -2,76 +2,76 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/en/release-notes/2022/</loc>
+    <loc>/site2/en/release-notes/2022/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="/de/release-notes/2022/"
+                href="/site2/de/release-notes/2022/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/release-notes/2022/"
+                href="/site2/en/release-notes/2022/"
                 />
   </url><url>
-    <loc>/en/user-guide/</loc>
+    <loc>/site2/en/user-guide/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="/de/user-guide/"
+                href="/site2/de/user-guide/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/user-guide/"
+                href="/site2/en/user-guide/"
                 />
   </url><url>
-    <loc>/en/release-notes/</loc>
+    <loc>/site2/en/release-notes/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="/de/release-notes/"
+                href="/site2/de/release-notes/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/release-notes/"
+                href="/site2/en/release-notes/"
                 />
   </url><url>
-    <loc>/en/categories/</loc>
+    <loc>/site2/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="/de/categories/"
+                href="/site2/de/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/categories/"
+                href="/site2/en/categories/"
                 />
   </url><url>
-    <loc>/en/</loc>
+    <loc>/site2/en/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="/de/"
+                href="/site2/de/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/"
+                href="/site2/en/"
                 />
   </url><url>
-    <loc>/en/tags/</loc>
+    <loc>/site2/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="/de/tags/"
+                href="/site2/de/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/"
+                href="/site2/en/tags/"
                 />
   </url>
 </urlset>
